@@ -1,3 +1,3 @@
-# Animation - car/sun
+# Car-sun - animation
 
 https://noekurzawa.github.io/Animation/
